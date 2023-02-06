@@ -1,4 +1,4 @@
-# DiccionarioFuerzaBruta
+# Diccionario Fuerza Bruta
 - Creacion de diccionario del 0 al 10000
 - Menu de encriptaciones (MD5,SHA512,BASE64)
 - Extensiones Integradas (txt,pdf,docx y xlxs)
